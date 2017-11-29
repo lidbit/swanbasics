@@ -1,0 +1,60 @@
+
+/* Swanbasics Styles File*/
+
+/*palette
+#CAD2C5 - Pastel Gray
+#84A98C - Dark sea Green
+#52796F - Hookers Green
+#354F52 - Dark Slate Grey
+#2F3E46 - Japanese indigo 
+Also I like cadetblue
+*/
+
+
+body{
+    background-color: #CAD2C5;
+    background-size: 90%;
+}
+
+
+header, footer{
+    background-color: #2F3E46;
+    color:#CAD2C5;
+    
+}
+
+nav{
+    background-color: #52796F;
+    color:#CAD2C5;
+}
+
+a{
+    color:#CAD2C5;
+}
+a:link{
+    color: beige;
+}
+a:active{
+    color: beige;
+}
+a:hover{
+    color: bisque;
+}
+
+article header{
+    background-color: #CAD2C5;
+    color: #2F3E46;
+}
+
+h3, h4 {
+    color: #354F52;
+}
+
+.suggestion{
+    background-color: #CAD2C5;
+    color: cadetblue;
+}
+
+aside, aside h4 {
+    color: #84A98C;
+} 
