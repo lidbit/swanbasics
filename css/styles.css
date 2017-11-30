@@ -14,22 +14,33 @@ Also I like cadetblue
 body{
     background-color: #CAD2C5;
     background-size: 90%;
+    width: 900px;
+    margin: 0 auto;
 }
 
 
 header, footer{
     background-color: #2F3E46;
     color:#CAD2C5;
-    
+   
+}
+
+h1{
+     font-family: 'Satisfy', cursive;
 }
 
 nav{
     background-color: #52796F;
     color:#CAD2C5;
+    font-family: arial, sans-serif;
 }
 
 a{
     color:#CAD2C5;
+    /*background:;*/
+    height:40px;
+    width:150px;
+
 }
 a:link{
     color: beige;
@@ -44,6 +55,7 @@ a:hover{
 article header{
     background-color: #CAD2C5;
     color: #2F3E46;
+    
 }
 
 h3, h4 {
@@ -55,6 +67,11 @@ h3, h4 {
     color: cadetblue;
 }
 
-aside, aside h4 {
+#disclaimer{
     color: #84A98C;
-} 
+}
+
+aside {
+    color: #84A98C;
+    background-color:oldlace;
+}
